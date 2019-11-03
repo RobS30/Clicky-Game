@@ -1,0 +1,5 @@
+ul.navList {
+    display: flex;
+    justify-content: space-around;
+    font-size: calc(10px + 14 * (100vw - 320px)/ 800);
+}
