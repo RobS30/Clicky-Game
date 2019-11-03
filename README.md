@@ -7,7 +7,7 @@ The game will render 8 different images of dogs.  Each time an image is clicked 
 
 1) Clone this Git repository
 <br>
-$ git clone https://github.com/RobS30/Clicky-Game.git
+($ git clone https://github.com/RobS30/Clicky-Game.git)
 <br>
 2) Install dependencies
 ($ npm install)
