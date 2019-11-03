@@ -6,13 +6,14 @@ The game will render 8 different images of dogs.  Each time an image is clicked 
 <h2>Installation</h2>
 
 1) Clone this Git repository
+<br>
 $ git clone https://github.com/RobS30/Clicky-Game.git
 <br>
 2) Install dependencies
-$ npm install
+($ npm install)
 <br>
 3) Run the app
-$ npm start
+($ npm start)
 <br>
 <h2>Motivation</h2>
 The goal was to showcase my skills in react by building a basic react app that has multiple components and props.
